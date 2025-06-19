@@ -87,4 +87,3 @@ test/gtc/*.dds
 *.dwo
 build/*
 */build/*
-external
